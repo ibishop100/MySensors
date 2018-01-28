@@ -1,0 +1,7 @@
+Left to Right
+
+Blank  White  Blue  Grey  Purple  Yellow
+
+or
+
+Blank  Purple  Grey  Blue  White  Yellow
